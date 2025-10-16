@@ -1,4 +1,0 @@
-﻿  zdk1.c
-C:\Users\Korisnik\Desktop\Faks\StrukturePodataka\vjezbe\vjezbe\zdk1.c(37,3): warning C4047: 'return': 'stud *' differs in levels of indirection from 'int'
-C:\Users\Korisnik\Desktop\Faks\StrukturePodataka\vjezbe\vjezbe\zdk1.c(42,3): warning C4047: 'return': 'stud *' differs in levels of indirection from 'int'
-  vjezbe.vcxproj -> C:\Users\Korisnik\Desktop\Faks\StrukturePodataka\vjezbe\x64\Debug\vjezbe.exe
