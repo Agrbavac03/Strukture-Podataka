@@ -1,0 +1,4 @@
+Valencia,840000
+Barcelona,5750000
+Malaga,600000
+Madrid,6900000
