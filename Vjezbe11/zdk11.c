@@ -13,7 +13,7 @@ typedef struct city {
 	treePos right;
 }city;
 
-typedef struct country* Pos;		//ova cila struktura mozda ne treba
+typedef struct country* Pos;		
 typedef struct country {
 	char nameOfCountry[50];
 	int key;
@@ -212,4 +212,5 @@ void search() {
 		printf("Gradovi sa vise od %d stanovnika su: \n", minPop);
 		findCities(selected->root, minPop);
 	}
+
 }
